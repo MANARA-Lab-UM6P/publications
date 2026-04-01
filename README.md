@@ -1,7 +1,7 @@
 # MANARA Lab Publications
 
 Research output from the **Multimodal AI, Networks, Analytics, Recommender Systems & Augmented Sensing Laboratory (MANARA Lab)**  
-College of Computing, Mohammed VI Polytechnic University (UM6P), Morocco.
+College of Computing, University Mohammed VI Polytechnic (UM6P), Morocco.
 
 > `*` Denotes a MANARA Lab PhD student co-author.  
 > For the complete publication record of the lab director (including pre-2021 work), see [Google Scholar](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en) and [ORCID](https://orcid.org/0000-0003-0112-2600).
@@ -31,8 +31,8 @@ A curated set of representative outputs spanning the lab's core research themes.
 - A. Aboukacem*, I. Berrada, E. H. Bergou, Y. Iraqi, and L. Mekouar, Investigating the Predictive Potential of Large Language Models in Dropout Prediction, *AIED 2024*, July 2024.
 
 **Security & Privacy**
-- A. Battah, Y. Iraqi, and E. Damiani, A Trust and Reputation System for IoT Service Interactions, *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, doi: [10.1109/TNSM.2022.3179875](https://doi.org/10.1109/TNSM.2022.3179875), September 2022.
 - A. Abdeddine*, A. Boussetta, Y. Iraqi, and L. Mekouar, PLTA: Private Location Task Allocation using Multidimensional Approximate Agreement, *IEEE CNS 2024*, October 2024.
+- A. Battah, Y. Iraqi, and E. Damiani, A Trust and Reputation System for IoT Service Interactions, *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, doi: [10.1109/TNSM.2022.3179875](https://doi.org/10.1109/TNSM.2022.3179875), September 2022.
 
 ---
 
