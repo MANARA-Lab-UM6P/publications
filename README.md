@@ -12,27 +12,33 @@ College of Computing, University Mohammed VI Polytechnic (UM6P), Morocco.
 
 A curated set of representative outputs spanning the lab's core research themes.
 
-**Recommender Systems & Trust**
+**Trustworthy AI & Recommender Systems**
 - I. Akdim*, L. Mekouar, and Y. Iraqi, Trust in Recommender Systems: A Survey, *Expert Systems With Applications*, vol. 298, doi: [10.1016/j.eswa.2025.129653](https://doi.org/10.1016/j.eswa.2025.129653), March 2026.
 - A. Bouayad, I. Akdim*, C. Illi, F. Z. Moudakir, L. Mekouar, and Y. Iraqi, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, *Expert Systems With Applications*, 2026.
 - L. Mekouar, Y. Iraqi, and I. Damaj, A Global User Profile Framework for Effective Recommender Systems, *Multimedia Tools and Applications*, doi: [10.1007/s11042-023-17436-w](https://doi.org/10.1007/s11042-023-17436-w), October 2023.
 
-**Speech, Audio & Multimodal AI**
+**Wireless Networks & 6G**
+- A. Ahmed, A. Al-Dweik, Y. Iraqi, H. Yahya, and E. Damiani, Intelligent NOMA-Based Wireless Backhauling for IoT Applications without End-Device CSI, *IEEE Open Journal of the Communications Society*, doi: [10.1109/OJCOMS.2025.3532998](https://doi.org/10.1109/OJCOMS.2025.3532998), February 2025.
+- A. Ahmed, A. Al-Dweik, Y. Iraqi, and E. Damiani, Integrated Terrestrial-Wired and LEO Satellite with Offline Bidirectional Cooperation For 6G IoT Networks, *IEEE Internet of Things Journal*, doi: [10.1109/JIOT.2023.3349144](https://doi.org/10.1109/JIOT.2023.3349144), May 2024.
+- A. Ahmed, A. Al-Dweik, Y. Iraqi, et al., Hybrid Automatic Repeat Request (HARQ) in Wireless Communications Systems and Standards: A Contemporary Survey, *IEEE Communications Surveys & Tutorials*, doi: [10.1109/COMST.2021.3094401](https://doi.org/10.1109/COMST.2021.3094401), July 2021.
+
+**Security, Privacy & Blockchain**
+- A. Abdeddine*, A. Boussetta, Y. Iraqi, and L. Mekouar, PLTA: Private Location Task Allocation using Multidimensional Approximate Agreement, *IEEE CNS 2024*, October 2024.
+- A. Battah, Y. Iraqi, and E. Damiani, A Trust and Reputation System for IoT Service Interactions, *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, doi: [10.1109/TNSM.2022.3179875](https://doi.org/10.1109/TNSM.2022.3179875), September 2022.
+- E. Bellini, Y. Iraqi, and E. Damiani, Blockchain-based Distributed Trust and Reputation Management Systems: A Survey, *IEEE Access*, vol. 8, doi: [10.1109/ACCESS.2020.3016731](https://doi.org/10.1109/ACCESS.2020.3016731), January 2020.
+
+**Speech & Affective Computing**
 - Y. Terraf* and Y. Iraqi, CAT-Net: A Channel and Self-Attention TCN for Robust Frame-Level Overlapping Speech Detection, *IEEE Transactions on Audio, Speech and Language Processing*, doi: [10.1109/TASLPRO.2026.3661413](https://doi.org/10.1109/TASLPRO.2026.3661413), 2026.
 - S. Hamsa, Y. Iraqi, I. Shahin, E. Damiani, K. Khalaf, H. Jelinek, and N. Werghi, Emotion and Noise-Robust Speaker Identification via Filter-Free Self-Supervised Learning, *Information Processing and Management*, 2026.
 - Y. Terraf* and Y. Iraqi, CoMISI: Multimodal Speaker Identification in Diverse Audio-Visual Conditions through Cross-Modal Interaction, *ICONIP 2024*, December 2024.
 
-**Mobile Crowdsensing**
-- A. Abdeddine*, Y. Iraqi, and L. Mekouar, An Efficient Task Allocation in Mobile Crowdsensing Environments, *IEEE Transactions on Network and Service Management*, vol. 22, no. 3, doi: [10.1109/TNSM.2025.3540293](https://doi.org/10.1109/TNSM.2025.3540293), June 2025.
-- A. Abdeddine*, L. Mekouar, and Y. Iraqi, A Generic Framework for Mobile Crowdsensing: A Comprehensive Survey, *IEEE Access*, vol. 13, doi: [10.1109/ACCESS.2025.3526739](https://doi.org/10.1109/ACCESS.2025.3526739), January 2025.
-
-**AI for Education & Healthcare**
+**AI for Health & Education**
 - M. Bahani, Y. Iraqi, et al., Development and Internal Validation of an AI-Driven Model for 5-Year Cardiovascular Disease Risk Prediction, *Journal of the American College of Cardiology*, doi: [10.1016/j.jacc.2025.09.1077](https://doi.org/10.1016/j.jacc.2025.09.1077), October 2025.
 - A. Aboukacem*, I. Berrada, E. H. Bergou, Y. Iraqi, and L. Mekouar, Investigating the Predictive Potential of Large Language Models in Dropout Prediction, *AIED 2024*, July 2024.
 
-**Security & Privacy**
-- A. Abdeddine*, A. Boussetta, Y. Iraqi, and L. Mekouar, PLTA: Private Location Task Allocation using Multidimensional Approximate Agreement, *IEEE CNS 2024*, October 2024.
-- A. Battah, Y. Iraqi, and E. Damiani, A Trust and Reputation System for IoT Service Interactions, *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, doi: [10.1109/TNSM.2022.3179875](https://doi.org/10.1109/TNSM.2022.3179875), September 2022.
+**Mobile Crowdsensing**
+- A. Abdeddine*, Y. Iraqi, and L. Mekouar, An Efficient Task Allocation in Mobile Crowdsensing Environments, *IEEE Transactions on Network and Service Management*, vol. 22, no. 3, doi: [10.1109/TNSM.2025.3540293](https://doi.org/10.1109/TNSM.2025.3540293), June 2025.
+- A. Abdeddine*, L. Mekouar, and Y. Iraqi, A Generic Framework for Mobile Crowdsensing: A Comprehensive Survey, *IEEE Access*, vol. 13, doi: [10.1109/ACCESS.2025.3526739](https://doi.org/10.1109/ACCESS.2025.3526739), January 2025.
 
 ---
 
