@@ -164,14 +164,4 @@ A curated set of representative outputs spanning the lab's core research themes.
 
 15. S. Hamsa, I. Shahin, Y. Iraqi, E. Damiani, and N. Werghi, EA-VGG: A New Approach for Emotional Speech Classification, *International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)*, November 2022.
 
----
 
-## Datasets & Software
-
-- **TCEF (Speaker Identification)** — Reproducibility files for "Robust Feature Extraction Using Temporal Context Averaging for Speaker Identification in Diverse Acoustic Environments," *IEEE Access*, Jan. 2024. [[GitHub](https://github.com/YassinTERRAF/TCEF)]
-- **Approximate Randomization Test** — [[GitHub](https://github.com/Abdeddine/Approximated_randomization_test)]
-- **Learned Speech Segregation (IBM-based)** — DOI: [10.24433/CO.2877154.v1](https://doi.org/10.24433/CO.2877154.v1) [[CodeOcean](https://codeocean.com/capsule/1202410/tree)]
-- **KIT-30 Dataset** — Emirati tweets dataset for author identification. [[GitLab](https://gitlab.com/mmaakh/kit-30.git)]
-- **Fextractor** — Feature extraction library for stylometry. [[GitLab](https://gitlab.com/mmaakh/fextractor.git)]
-- **Stylometry Evaluation** — Evaluation code for "Evaluating Author Attribution on Emirati Tweets," *IEEE Access*, 2020. [[GitLab](https://gitlab.com/mmaakh/stylometry-survey-evaluation)]
-- **Artest** — Statistical significance tester for AUC via Approximate Randomization (GPLv2). [[GitHub](https://github.com/mmaakh/artest)]
