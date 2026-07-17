@@ -17,29 +17,29 @@ A curated set of representative outputs spanning the lab's core research themes.
 
 - **I. Akdim**\*, L. Mekouar, and Y. Iraqi, Trust in Recommender Systems: A Survey, *Expert Systems With Applications*, vol. 298, doi: [10.1016/j.eswa.2025.129653](https://doi.org/10.1016/j.eswa.2025.129653), March 2026.
 - **A. Bouayad**, **I. Akdim**\*, **C. Illi**, **F. Z. Moudakir**, L. Mekouar, and Y. Iraqi, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, *Expert Systems With Applications*, 2026.
-- L. Mekouar, Y. Iraqi, and I. Damaj, A Global User Profile Framework for Effective Recommender Systems, *Multimedia Tools and Applications*, doi: [10.1007/s11042-023-17436-w](https://doi.org/10.1007/s11042-023-17436-w), October 2023.
+- **A. Akhadam**, **O. Kbibchi**, L. Mekouar, and Y. Iraqi, A Comparative Evaluation of Recommender Systems Tools, *IEEE Access*, vol. 13, pp. 29493–29522, doi: [10.1109/ACCESS.2025.3541014](https://doi.org/10.1109/ACCESS.2025.3541014), February 2025.
 
 **Wireless Networks & 6G**
 
+- T. Assaf, A. Al-Dweik, Y. Iraqi, Z. Ding, and A. Pandey, Physical Layer Security for NOMA-OFDM using Power Hopping, *IEEE Transactions on Wireless Communications*, 2026.
 - A. Ahmed, A. Al-Dweik, Y. Iraqi, H. Yahya, and E. Damiani, Intelligent NOMA-Based Wireless Backhauling for IoT Applications without End-Device CSI, *IEEE Open Journal of the Communications Society*, doi: [10.1109/OJCOMS.2025.3532998](https://doi.org/10.1109/OJCOMS.2025.3532998), February 2025.
 - A. Ahmed, A. Al-Dweik, Y. Iraqi, and E. Damiani, Integrated Terrestrial-Wired and LEO Satellite with Offline Bidirectional Cooperation For 6G IoT Networks, *IEEE Internet of Things Journal*, doi: [10.1109/JIOT.2023.3349144](https://doi.org/10.1109/JIOT.2023.3349144), May 2024.
-- A. Ahmed, A. Al-Dweik, Y. Iraqi, et al., Hybrid Automatic Repeat Request (HARQ) in Wireless Communications Systems and Standards: A Contemporary Survey, *IEEE Communications Surveys & Tutorials*, doi: [10.1109/COMST.2021.3094401](https://doi.org/10.1109/COMST.2021.3094401), July 2021.
 
 **Security, Privacy & Blockchain**
 
 - **Y. Terraf**\*, Y. Iraqi, A. Al-Dweik, A. Pandey, and J.-P. Giacalone, Jamming Detection at the Application Layer Using Deep Learning: A Transfer Learning Approach, *IEEE Open Journal of the Communications Society*, vol. 7, pp. 7302–7318, doi: [10.1109/OJCOMS.2026.3707737](https://doi.org/10.1109/OJCOMS.2026.3707737), 2026.
+- **N. Abbassi**\*, L. Mekouar, and Y. Iraqi, Federated Matrix Factorization under Local Differential Privacy via Directional Noise, *European Symposium on Security and Privacy (EuroS&P)*, July 2026.
 - **A. Abdeddine**\*, A. Boussetta, Y. Iraqi, and L. Mekouar, PLTA: Private Location Task Allocation using Multidimensional Approximate Agreement, *IEEE CNS 2024*, October 2024. 📦 [Code](https://github.com/MANARA-Lab-UM6P/PLTA)
-- A. Battah, Y. Iraqi, and E. Damiani, A Trust and Reputation System for IoT Service Interactions, *IEEE Transactions on Network and Service Management*, vol. 19, no. 3, doi: [10.1109/TNSM.2022.3179875](https://doi.org/10.1109/TNSM.2022.3179875), September 2022.
-- E. Bellini, Y. Iraqi, and E. Damiani, Blockchain-based Distributed Trust and Reputation Management Systems: A Survey, *IEEE Access*, vol. 8, doi: [10.1109/ACCESS.2020.3016731](https://doi.org/10.1109/ACCESS.2020.3016731), January 2020.
 
 **Speech & Affective Computing**
 
-- **Y. Terraf**\* and Y. Iraqi, CAT-Net: A Channel and Self-Attention TCN for Robust Frame-Level Overlapping Speech Detection, *IEEE Transactions on Audio, Speech and Language Processing*, doi: [10.1109/TASLPRO.2026.3661413](https://doi.org/10.1109/TASLPRO.2026.3661413), 2026. 📦 [Code](https://github.com/MANARA-Lab-UM6P/CAT-Net)
 - S. Hamsa*, Y. Iraqi, I. Shahin, E. Damiani, K. Khalaf, H. Jelinek, and N. Werghi, Emotion and Noise-Robust Speaker Identification via Filter-Free Self-Supervised Learning, *Information Processing and Management*, 2026.
+- **Y. Terraf**\* and Y. Iraqi, CAT-Net: A Channel and Self-Attention TCN for Robust Frame-Level Overlapping Speech Detection, *IEEE Transactions on Audio, Speech and Language Processing*, doi: [10.1109/TASLPRO.2026.3661413](https://doi.org/10.1109/TASLPRO.2026.3661413), 2026. 📦 [Code](https://github.com/MANARA-Lab-UM6P/CAT-Net)
 - **Y. Terraf**\* and Y. Iraqi, CoMISI: Multimodal Speaker Identification in Diverse Audio-Visual Conditions through Cross-Modal Interaction, *ICONIP 2024*, December 2024.
 
 **AI for Health & Education**
 
+- **A. Aboukacem**\*, E. H. Bergou, I. Berrada, Y. Iraqi, and L. Mekouar, When Textification Fails: Embedding Collapse in Student Dropout Prediction, *AIED 2026, Late Breaking Results*, June 2026.
 - **M. Bahani**, Y. Iraqi, et al., Development and Internal Validation of an AI-Driven Model for 5-Year Cardiovascular Disease Risk Prediction, *Journal of the American College of Cardiology*, doi: [10.1016/j.jacc.2025.09.1077](https://doi.org/10.1016/j.jacc.2025.09.1077), October 2025.
 - **A. Aboukacem**\*, I. Berrada, E. H. Bergou, Y. Iraqi, and L. Mekouar, Investigating the Predictive Potential of Large Language Models in Dropout Prediction, *AIED 2024*, July 2024.
 
