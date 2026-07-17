@@ -153,3 +153,9 @@ A curated set of representative outputs spanning the lab's core research themes.
 ### 2022
 
 16. S. Hamsa, I. Shahin, Y. Iraqi, E. Damiani, and N. Werghi, EA-VGG: A New Approach for Emotional Speech Classification, *International Conference on Electrical, Computer, Communications and Mechatronics Engineering (ICECCME)*, November 2022.
+
+---
+
+## License
+
+This publication list is licensed under the [Creative Commons Attribution 4.0 International License (CC-BY-4.0)](https://creativecommons.org/licenses/by/4.0/). You are free to share and adapt this material with appropriate attribution to MANARA Lab, UM6P.
