@@ -16,7 +16,7 @@ A curated set of representative outputs spanning the lab's core research themes.
 **Trustworthy AI & Recommender Systems**
 
 - I. Akdim*, L. Mekouar, and Y. Iraqi, Trust in Recommender Systems: A Survey, *Expert Systems With Applications*, vol. 298, doi: [10.1016/j.eswa.2025.129653](https://doi.org/10.1016/j.eswa.2025.129653), March 2026.
-- A. Bouayad*, I. Akdim*, C. Illi, F. Z. Moudakir, L. Mekouar, and Y. Iraqi, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, *Expert Systems With Applications*, 2026.
+- A. Bouayad, I. Akdim*, C. Illi, F. Z. Moudakir, L. Mekouar, and Y. Iraqi, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, *Expert Systems With Applications*, 2026.
 - L. Mekouar, Y. Iraqi, and I. Damaj, A Global User Profile Framework for Effective Recommender Systems, *Multimedia Tools and Applications*, doi: [10.1007/s11042-023-17436-w](https://doi.org/10.1007/s11042-023-17436-w), October 2023.
 
 **Wireless Networks & 6G**
@@ -73,7 +73,7 @@ A curated set of representative outputs spanning the lab's core research themes.
 1. Y. Terraf*, Y. Iraqi, A. Al-Dweik, A. Pandey, and J.-P. Giacalone, Jamming Detection at the Application Layer Using Deep Learning: A Transfer Learning Approach, *IEEE Open Journal of the Communications Society*, vol. 7, pp. 7302–7318, doi: [10.1109/OJCOMS.2026.3707737](https://doi.org/10.1109/OJCOMS.2026.3707737), 2026.
 2. T. Assaf, A. Al-Dweik, Y. Iraqi, Z. Ding, and A. Pandey, Physical Layer Security for NOMA-OFDM using Power Hopping, *IEEE Transactions on Wireless Communications*, 2026.
 3. S. Hamsa, Y. Iraqi, I. Shahin, E. Damiani, K. Khalaf, H. Jelinek, and N. Werghi, Emotion and Noise-Robust Speaker Identification via Filter-Free Self-Supervised Learning, *Information Processing and Management*, 2026.
-4. A. Bouayad*, I. Akdim*, C. Illi, F. Z. Moudakir, L. Mekouar, and Y. Iraqi, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, *Expert Systems With Applications*, 2026.
+4. A. Bouayad, I. Akdim*, C. Illi, F. Z. Moudakir, L. Mekouar, and Y. Iraqi, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, *Expert Systems With Applications*, 2026.
 5. Y. Terraf* and Y. Iraqi, CAT-Net: A Channel and Self-Attention TCN for Robust Frame-Level Overlapping Speech Detection, *IEEE Transactions on Audio, Speech and Language Processing*, doi: [10.1109/TASLPRO.2026.3661413](https://doi.org/10.1109/TASLPRO.2026.3661413), 2026. 📦 [Code](https://github.com/MANARA-Lab-UM6P/CAT-Net)
 6. I. Akdim*, L. Mekouar, and Y. Iraqi, Trust in Recommender Systems: A Survey, *Expert Systems With Applications*, vol. 298, part C, doi: [10.1016/j.eswa.2025.129653](https://doi.org/10.1016/j.eswa.2025.129653), March 2026.
 
