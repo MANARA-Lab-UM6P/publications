@@ -4,7 +4,7 @@ Research output of the **Multimodal AI, Networks, Analytics, Recommender Systems
 College of Computing, University Mohammed VI Polytechnic (UM6P), Morocco.
 
 > Entries follow the CV of the lab director, Prof. Youssef Iraqi: his name is in **bold**, and supervised students and postdoctoral fellows are <ins>underlined</ins>. Numbers such as [J79] or [C94] are the entry numbers in the CV (J: journals, C: conferences and workshops, A: abstracts and posters, P: patents, PA: patent applications).
-> A linked entry number opens the PDF hosted on the [personal webpage of Prof. Iraqi](https://dr-youssef-iraqi.github.io/publications.html): the published version for open-access papers, otherwise the accepted manuscript. The DOI links to the publisher's version.
+> A linked entry number opens the PDF hosted on the [personal webpage of Prof. Iraqi](https://dr-youssef-iraqi.github.io/publications.html): the published version for open-access papers, otherwise the accepted manuscript. The DOI links to the publisher's version. For granted patents, the entry number links to the patent on Google Patents.
 > 📦 Denotes a paper with accompanying reproducibility code in the [MANARA Lab GitHub organization](https://github.com/MANARA-Lab-UM6P).
 > This list covers 2021 to the present: 36 journal papers, 22 conference and workshop papers, and 2 abstracts. For the complete record, including earlier work, see the [publications page](https://dr-youssef-iraqi.github.io/publications.html), [Google Scholar](https://scholar.google.com/citations?user=0LdsuWgAAAAJ&hl=en), and [ORCID](https://orcid.org/0000-0003-0112-2600).
 
@@ -55,11 +55,11 @@ A curated set of representative outputs across the lab's research themes.
 
 ### Granted Patents
 
-- **[P5]** Arafat Al-Dweik, **Youssef Iraqi**, and <ins>Ashfaq Ahmed</ins>, Dropped-Packets Repair and Recovery for Delay-Tolerant Wireless Systems Using Retroactive Interference Cancellation, Publication No. US 12,381,829, August 5, 2025.
-- **[P4]** Arafat Al-Dweik and **Youssef Iraqi**, OFDM Communication System with Enhanced Channel Estimation and Data Detection Techniques, Publication No. US 10,484,226 B2, November 19, 2019.
-- **[P3]** Arafat Al-Dweik, **Youssef Iraqi**, and Mohammed Al-Mualla, Digital Communications Receiver Using Partial Knowledge of the Channel State Information. Continuation patent. Publication No. US 9,954,699 B2, April 24, 2018.
-- **[P2]** Arafat Al-Dweik, **Youssef Iraqi**, and Mohammed Al-Mualla, Digital Communications Receiver Using Partial Knowledge of the Channel State Information, Publication No. US 9,509,538 B1, November 29, 2016.
-- **[P1]** Harish Bhaskar, **Youssef Iraqi**, and <ins>Sultan Al Sharif</ins>, Human Eye Controlled Computer Mouse Interface. Publication No. US 9,075,453 B2, July 7, 2015.
+- **[[P5](https://patents.google.com/patent/US12381829B2/en)]** Arafat Al-Dweik, **Youssef Iraqi**, and <ins>Ashfaq Ahmed</ins>, Dropped-Packets Repair and Recovery for Delay-Tolerant Wireless Systems Using Retroactive Interference Cancellation, Publication No. US 12,381,829, August 5, 2025.
+- **[[P4](https://patents.google.com/patent/US10484226B2/en)]** Arafat Al-Dweik and **Youssef Iraqi**, OFDM Communication System with Enhanced Channel Estimation and Data Detection Techniques, Publication No. US 10,484,226 B2, November 19, 2019.
+- **[[P3](https://patents.google.com/patent/US9954699B2/en)]** Arafat Al-Dweik, **Youssef Iraqi**, and Mohammed Al-Mualla, Digital Communications Receiver Using Partial Knowledge of the Channel State Information. Continuation patent. Publication No. US 9,954,699 B2, April 24, 2018.
+- **[[P2](https://patents.google.com/patent/US9509538B1/en)]** Arafat Al-Dweik, **Youssef Iraqi**, and Mohammed Al-Mualla, Digital Communications Receiver Using Partial Knowledge of the Channel State Information, Publication No. US 9,509,538 B1, November 29, 2016.
+- **[[P1](https://patents.google.com/patent/US9075453B2/en)]** Harish Bhaskar, **Youssef Iraqi**, and <ins>Sultan Al Sharif</ins>, Human Eye Controlled Computer Mouse Interface. Publication No. US 9,075,453 B2, July 7, 2015.
 
 ### Patent Application
 
