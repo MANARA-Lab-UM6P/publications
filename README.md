@@ -173,11 +173,11 @@ A curated set of representative outputs across the lab's research themes.
 
 ### 2026
 
-- **[A2]** Imonikhe Ayeni, Mwaka Namwila, **Youssef Iraqi**, and Issam Damaj, Towards Climate-Resilient Smart Cities in Morocco: An Open Geospatial Framework for Spatial Decision Support, poster, 1<sup>st</sup> International Conference on Synergies in Next-Generation Cyber-Physical Systems (SNGC 2026), Cardiff, UK, September 2026.
+- **[A3]** Imonikhe Ayeni, Mwaka Namwila, **Youssef Iraqi**, and Issam Damaj, Towards Climate-Resilient Smart Cities in Morocco: An Open Geospatial Framework for Spatial Decision Support, poster, 1<sup>st</sup> International Conference on Synergies in Next-Generation Cyber-Physical Systems (SNGC 2026), Cardiff, UK, September 2026.
 
 ### 2025
 
-- **[A1]** <ins>Mourad Bahani</ins>, **Youssef Iraqi**, Jacques Delfrate, <ins>Yasser El Jarida</ins>, Alexis Nolin-Lapalme, Achille Sowa, and Robert Avram, TCT-894 Development and Internal Validation of an AI-Driven Model for 5-Year Cardiovascular Disease Risk Prediction in the Canadian Longitudinal Study on Aging: Comparative Performance vs. Traditional Risk Scores, Journal of the American College of Cardiology, 86(17): B385. doi: [10.1016/j.jacc.2025.09.1077](https://doi.org/10.1016/j.jacc.2025.09.1077). October 2025.
+- **[A2]** <ins>Mourad Bahani</ins>, **Youssef Iraqi**, Jacques Delfrate, <ins>Yasser El Jarida</ins>, Alexis Nolin-Lapalme, Achille Sowa, and Robert Avram, TCT-894 Development and Internal Validation of an AI-Driven Model for 5-Year Cardiovascular Disease Risk Prediction in the Canadian Longitudinal Study on Aging: Comparative Performance vs. Traditional Risk Scores, Journal of the American College of Cardiology, 86(17): B385. doi: [10.1016/j.jacc.2025.09.1077](https://doi.org/10.1016/j.jacc.2025.09.1077). October 2025.
 
 ---
 
