@@ -1,0 +1,49 @@
+# Publishes profile/README.md of this repository as the MANARA Lab organization
+# profile (MANARA-Lab-UM6P/.github, file profile/README.md).
+# Edit profile/README.md here; do not edit the copy in the .github repository.
+# Requires the repository secret PROFILE_SYNC_TOKEN: a fine-grained personal
+# access token limited to MANARA-Lab-UM6P/.github with Contents: Read and write.
+name: Publish lab profile README
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - profile/README.md
+      - .github/workflows/publish-profile.yml
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    env:
+      TOKEN: ${{ secrets.PROFILE_SYNC_TOKEN }}
+    steps:
+      - name: Check that the token is set
+        id: check
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "PROFILE_SYNC_TOKEN is not set; nothing published."
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+          fi
+      - uses: actions/checkout@v4
+        if: steps.check.outputs.skip != 'true'
+      - name: Copy profile/README.md to MANARA-Lab-UM6P/.github
+        if: steps.check.outputs.skip != 'true'
+        run: |
+          git clone --depth 1 "https://x-access-token:${TOKEN}@github.com/MANARA-Lab-UM6P/.github.git" target
+          mkdir -p target/profile
+          cp profile/README.md target/profile/README.md
+          cd target
+          git add profile/README.md
+          if git diff --cached --quiet; then
+            echo "Organization profile is already up to date."
+            exit 0
+          fi
+          git config user.name "manara-lab"
+          git config user.email "Youssef.Iraqi@um6p.ma"
+          git commit -m "Update lab profile README (published from the publications repository)"
+          git push origin HEAD:main
