@@ -14,13 +14,13 @@ College of Computing, University Mohammed VI Polytechnic (UM6P), Morocco.
 
 A curated set of representative outputs across the lab's research themes.
 
-**Trustworthy AI & Recommender Systems**
+**Trustworthy & Explainable AI**
 
 - **[[J70](https://dr-youssef-iraqi.github.io/papers/J70.pdf)]** <ins>Imane Akdim</ins>, Loubna Mekouar, and **Youssef Iraqi**, Trust in Recommender Systems: A Survey, Expert Systems With Applications, vol. 298, Part C, doi: [10.1016/j.eswa.2025.129653](https://doi.org/10.1016/j.eswa.2025.129653), March 2026.
 - **[J72]** Abdelhak Bouayad, <ins>Imane Akdim</ins>, <ins>Chaimae Illi</ins>, <ins>Fatima Zahra Moudakir</ins>, Loubna Mekouar, and **Youssef Iraqi**, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, Expert Systems With Applications, vol. 314, art. no. 131614, doi: [10.1016/j.eswa.2026.131614](https://doi.org/10.1016/j.eswa.2026.131614), 2026.
 - **[[C92](https://dr-youssef-iraqi.github.io/papers/C92.pdf)]** <ins>Youness Soussou</ins>, Loubna Mekouar, **Youssef Iraqi**, and Mohamed Nadif, PageRank Attributed Graph Subspace Clustering, 35<sup>th</sup> ACM International Conference on Information and Knowledge Management (CIKM), pp. 4488-4498, doi: [10.1145/3799682.3840890](https://doi.org/10.1145/3799682.3840890), November 2026.
 
-**Wireless Networks & 6G**
+**Wireless Networks & Networked Systems**
 
 - **[[J79](https://dr-youssef-iraqi.github.io/papers/J79.pdf)]** Ali Siddig, Arafat Al-Dweik, **Youssef Iraqi**, Tasneem Assaf, and Anshul Pandey, Cross-Layer Data Protection for Wireless Communications using Packet-Chains, IEEE Transactions on Communications, early access, doi: [10.1109/TCOMM.2026.3755508](https://doi.org/10.1109/TCOMM.2026.3755508), November 2026.
 - **[[J74](https://dr-youssef-iraqi.github.io/papers/J74.pdf)]** Tasneem Assaf, Arafat Al-Dweik, **Youssef Iraqi**, Zhiguo Ding, and Anshul Pandey, Physical Layer Security for NOMA-OFDM using Power Hopping, IEEE Transactions on Wireless Communications, vol. 25, pp. 14642-14658, doi: [10.1109/TWC.2026.3678632](https://doi.org/10.1109/TWC.2026.3678632), 2026.
@@ -38,11 +38,10 @@ A curated set of representative outputs across the lab's research themes.
 - **[[J71](https://dr-youssef-iraqi.github.io/papers/J71.pdf)]** <ins>Yassin Terraf</ins> and **Youssef Iraqi**, CAT-Net: A Channel and Self-Attention TCN for Robust Frame-Level Overlapping Speech Detection, IEEE Transactions on Audio, Speech and Language Processing, vol. 34, pp. 1184-1199, doi: [10.1109/TASLPRO.2026.3661413](https://doi.org/10.1109/TASLPRO.2026.3661413), 2026. 📦 [Code](https://github.com/MANARA-Lab-UM6P/CAT-Net)
 - **[[C91](https://dr-youssef-iraqi.github.io/papers/C91.pdf)]** <ins>Ayoub Elkhouzari</ins>, **Youssef Iraqi**, and Loubna Mekouar, MaskedFOP: Polyglot Speaker Identification under Missing Visual Modality via Cascaded Graph Label Propagation, 34<sup>th</sup> ACM International Conference on Multimedia (ACM MM), pp. 17358-17364, doi: [10.1145/3767308.3836613](https://doi.org/10.1145/3767308.3836613), November 2026.
 
-**AI for Health & Education**
+**Healthcare AI & Medical Imaging**
 
 - **[[J78](https://dr-youssef-iraqi.github.io/papers/J78.pdf)]** Simon Mueller, Bhuvan Sachdeva, Singri Niharika Prasad, Raphael Lechtenboehmer, Frank G Holz, Robert P Finger, Christopher Nielsen, Patrick Gooi, Adrian Gooi, Nils D. Forkert, <ins>Yasser El Jarida</ins>, **Youssef Iraqi**, Loubna Mekouar, Yiran Kong, Zhihai Huang, Jiawei Du, Huiqi Li, Lasse Renz-Kiefel, Eric L. Wisotzky, Dong Zheng, Jiacheng Lin, Miao Hu, Yanwu Xu, Mohit Jain, Kaushik Murali, Maximilian W M Wintergerst, Thomas Schultz, Advancing Automated Phase Recognition in Cataract Surgery through the SICS-155 challenge, Medical Image Analysis, vol. 115, 104313, ISSN 1361-8415, doi: [10.1016/j.media.2026.104313](https://doi.org/10.1016/j.media.2026.104313). 2026.
-- **[C88]** <ins>Abdelghafour Aboukacem</ins>, El Houcine Bergou, Ismail Berrada, **Youssef Iraqi**, and Loubna Mekouar, When Textification Fails: Embedding Collapse in Student Dropout Prediction, 27<sup>th</sup> International Conference on Artificial Intelligence in Education (AIED), Late Breaking Results, CCIS, pp. 375-381, doi: [10.1007/978-3-032-29788-4_53](https://doi.org/10.1007/978-3-032-29788-4_53), June 2026.
-- **[C76]** <ins>Abdelghafour Aboukacem</ins>, Ismail Berrada, El Houcine Bergou, **Youssef Iraqi**, and Loubna Mekouar, Investigating the Predictive Potential of Large Language Models in Dropout Prediction, 25<sup>th</sup> International Conference on Artificial Intelligence in Education (AIED), July 2024.
+- **[A2]** <ins>Mourad Bahani</ins>, **Youssef Iraqi**, Jacques Delfrate, <ins>Yasser El Jarida</ins>, Alexis Nolin-Lapalme, Achille Sowa, and Robert Avram, TCT-894 Development and Internal Validation of an AI-Driven Model for 5-Year Cardiovascular Disease Risk Prediction in the Canadian Longitudinal Study on Aging: Comparative Performance vs. Traditional Risk Scores, Journal of the American College of Cardiology, 86(17): B385. doi: [10.1016/j.jacc.2025.09.1077](https://doi.org/10.1016/j.jacc.2025.09.1077). October 2025.
 
 **Mobile Crowdsensing**
 
