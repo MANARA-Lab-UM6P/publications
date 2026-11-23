@@ -17,7 +17,7 @@ A curated set of representative outputs across the lab's research themes.
 **Trustworthy & Explainable AI**
 
 - **[[J70](https://dr-youssef-iraqi.github.io/papers/J70.pdf)]** <ins>Imane Akdim</ins>, Loubna Mekouar, and **Youssef Iraqi**, Trust in Recommender Systems: A Survey, Expert Systems With Applications, vol. 298, Part C, doi: [10.1016/j.eswa.2025.129653](https://doi.org/10.1016/j.eswa.2025.129653), March 2026.
-- **[J72]** Abdelhak Bouayad, <ins>Imane Akdim</ins>, <ins>Chaimae Illi</ins>, <ins>Fatima Zahra Moudakir</ins>, Loubna Mekouar, and **Youssef Iraqi**, Personalization in the Metaverse: A Survey on Recommender Systems Across Immersive Technologies, Expert Systems With Applications, vol. 314, art. no. 131614, doi: [10.1016/j.eswa.2026.131614](https://doi.org/10.1016/j.eswa.2026.131614), 2026.
+- **[J56]** <ins>Mahmoud Khonji</ins>, **Youssef Iraqi** and Loubna Mekouar, Improved Score Aggregation for Authorship Verification, in the Knowledge and Information Systems (KAIS) journal, vol. 65, pp. 1317–1336, Springer, doi: [10.1007/s10115-022-01798-y](https://doi.org/10.1007/s10115-022-01798-y), March 2023.
 - **[[C92](https://dr-youssef-iraqi.github.io/papers/C92.pdf)]** <ins>Youness Soussou</ins>, Loubna Mekouar, **Youssef Iraqi**, and Mohamed Nadif, PageRank Attributed Graph Subspace Clustering, 35<sup>th</sup> ACM International Conference on Information and Knowledge Management (CIKM), pp. 4488-4498, doi: [10.1145/3799682.3840890](https://doi.org/10.1145/3799682.3840890), November 2026.
 
 **Wireless Networks & Networked Systems**
